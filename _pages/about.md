@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I studied linguistics in [Beijing Language and Culture University (BLCU)] (https://english.blcu.edu.cn/) and [Peking University] (https://english.pku.edu.cn/), for the bachelor’s degree and M.Phil. Degree. Currently, I am a PhD student in the [Education University of Hong Kong (EdUHK) (https://www.eduhk.hk/en/). I will be a postdoctoral researcher in EdUHK and the [Hong Kong Polytechnic University (PolyU)] (https://www.polyu.edu.hk/en/) for the following two years. My research focuses on vocabulary aquisition among L1 and L2 learners and the development of reading comprehension, mostly utilizing quantitative methods such as structural equation modeling (SEM). 
+
+You can find my CV here: [CAI Mingjia's Curriculum Vitae] (../assets/Curriculum_Vitae.pdf)
+Email:eileenchoi1994@gmail.com
+Google Scholar: https://scholar.google.com/citations?user=GBHA-ecAAAAJ&hl=en&oi=ao
 
 A data-driven personal website
 ======
