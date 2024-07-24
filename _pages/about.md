@@ -10,7 +10,9 @@ redirect_from:
 I studied linguistics in [Beijing Language and Culture University (BLCU)] (https://english.blcu.edu.cn/) and [Peking University] (https://english.pku.edu.cn/), for the bachelor’s degree and M.Phil. Degree. Currently, I am a PhD student in the [Education University of Hong Kong (EdUHK) (https://www.eduhk.hk/en/). I will be a postdoctoral researcher in EdUHK and the [Hong Kong Polytechnic University (PolyU)] (https://www.polyu.edu.hk/en/) for the following two years. My research focuses on vocabulary aquisition among L1 and L2 learners and the development of reading comprehension, mostly utilizing quantitative methods such as structural equation modeling (SEM). 
 
 You can find my CV here: [CAI Mingjia's Curriculum Vitae] (../assets/Curriculum_Vitae.pdf)
+
 Email:eileenchoi1994@gmail.com
+
 Google Scholar: https://scholar.google.com/citations?user=GBHA-ecAAAAJ&hl=en&oi=ao
 
 A data-driven personal website
